@@ -1,0 +1,24 @@
+{
+  "name": "files-upload",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.1.1",
+    "pug": "^2.0.0-beta11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barsbek/files-upload.git"
+  },
+  "author": "mak.bekmamat@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barsbek/files-upload/issues"
+  },
+  "homepage": "https://github.com/barsbek/files-upload#readme"
+}
